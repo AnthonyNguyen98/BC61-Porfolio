@@ -1,0 +1,2 @@
+File hiển thị làm trang chủ phải đặt là index.html (vì khi trình duyệt đọc, sẽ tìm kiếm file index.html đầu tiên)
+Nếu như file index.html nằm trong một thư mục khác, thì mục Root Directory phải lựa chọn thư mục chứa file index.html.
